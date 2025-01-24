@@ -12,6 +12,7 @@
     "paths": {
       "@app/*": ["app/*"],
       "@utils/*": ["utils/*"]
+      "@middlewares/*": ["middlewares/*"]
     }
   },
   "include": ["src/**/*.ts"],
